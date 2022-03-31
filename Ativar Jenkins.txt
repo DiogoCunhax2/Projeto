@@ -1,0 +1,10 @@
+cd C:\Users\Diogo.Cunha\Downloads
+
+java -jar jenkins.war --httpPort=9191
+
+
+ip da maquina 
+das maquinas
+ipconfig
+
+mudar o ip no notepad
